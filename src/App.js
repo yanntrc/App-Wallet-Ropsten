@@ -79,7 +79,7 @@ function App() {
       await transaction.wait()
       setAmountWithdraw('')
       getBalance()
-      setSuccess('')
+      setSuccess('Votre argent a bien été retiré du portefeuille.')
     }
     catch (err) {
       setError('Une erreur est survenue.')
