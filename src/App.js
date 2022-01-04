@@ -98,7 +98,7 @@ function App() {
     <div className="App">
       <div className="container">
         <div className="logo">
-          <i class="fab fa-ethereum"></i>
+          <i className="fab fa-ethereum"></i>
         </div>
         {error && <p className="error">{error}</p>}
         {success && <p className="success">{success}</p>}
