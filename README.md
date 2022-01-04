@@ -1,3 +1,3 @@
 # App-Wallet
 
-## Lien Netlify:
+## Lien Web:
